@@ -32,7 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é app para ajudar a rastrear hábitos. 
+O Habits é app para ajudar a rastrear hábitos.
+
+- [Visite o projeto online] (https://alisonhgb.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
